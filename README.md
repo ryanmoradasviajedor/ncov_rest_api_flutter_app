@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Diagram
-![App-diagram](diagram\ncov.PNG?raw=true)
+![App-diagram](/diagram\ncov.PNG?raw=true)
